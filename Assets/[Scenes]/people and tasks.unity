@@ -455,6 +455,79 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 562829209}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &646872305
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3666350215482417469, guid: 3bc4936fd7401a64e81f73bbcdfc9e42,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -8.308439
+      objectReference: {fileID: 0}
+    - target: {fileID: 3666350215482417469, guid: 3bc4936fd7401a64e81f73bbcdfc9e42,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3666350215482417469, guid: 3bc4936fd7401a64e81f73bbcdfc9e42,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.2246327
+      objectReference: {fileID: 0}
+    - target: {fileID: 3666350215482417469, guid: 3bc4936fd7401a64e81f73bbcdfc9e42,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3666350215482417469, guid: 3bc4936fd7401a64e81f73bbcdfc9e42,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3666350215482417469, guid: 3bc4936fd7401a64e81f73bbcdfc9e42,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3666350215482417469, guid: 3bc4936fd7401a64e81f73bbcdfc9e42,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3666350215482417469, guid: 3bc4936fd7401a64e81f73bbcdfc9e42,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3666350215482417469, guid: 3bc4936fd7401a64e81f73bbcdfc9e42,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3666350215482417469, guid: 3bc4936fd7401a64e81f73bbcdfc9e42,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4155325694633704327, guid: 3bc4936fd7401a64e81f73bbcdfc9e42,
+        type: 3}
+      propertyPath: m_Name
+      value: AncientGreek_Male_Elder2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7206131915122572103, guid: 3bc4936fd7401a64e81f73bbcdfc9e42,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 393051f55b8023349abb9a2cb9bdcfef, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3bc4936fd7401a64e81f73bbcdfc9e42, type: 3}
 --- !u!1001 &658719039
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1903,4 +1976,8 @@ SceneRoots:
   - {fileID: 658719039}
   - {fileID: 1744423681}
   - {fileID: 1795012652}
+<<<<<<< Updated upstream
   - {fileID: 937050640}
+=======
+  - {fileID: 646872305}
+>>>>>>> Stashed changes
