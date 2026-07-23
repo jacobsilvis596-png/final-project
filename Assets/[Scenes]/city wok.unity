@@ -1969,6 +1969,7 @@ GameObject:
   - component: {fileID: 66116035}
   - component: {fileID: 66116038}
   - component: {fileID: 66116036}
+  - component: {fileID: 66116037}
   m_Layer: 0
   m_Name: Sphere (6)
   m_TagString: Untagged
@@ -2034,6 +2035,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &66116037
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 66116034}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &66116038
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -2171,6 +2193,7 @@ GameObject:
   - component: {fileID: 77560705}
   - component: {fileID: 77560708}
   - component: {fileID: 77560706}
+  - component: {fileID: 77560707}
   m_Layer: 0
   m_Name: Sphere (8)
   m_TagString: Untagged
@@ -2236,6 +2259,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &77560707
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 77560704}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &77560708
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -2334,6 +2378,7 @@ GameObject:
   - component: {fileID: 80827176}
   - component: {fileID: 80827179}
   - component: {fileID: 80827177}
+  - component: {fileID: 80827178}
   m_Layer: 0
   m_Name: Sphere (7)
   m_TagString: Untagged
@@ -2399,6 +2444,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &80827178
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 80827175}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &80827179
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -2911,6 +2977,7 @@ GameObject:
   - component: {fileID: 94341643}
   - component: {fileID: 94341646}
   - component: {fileID: 94341644}
+  - component: {fileID: 94341645}
   m_Layer: 0
   m_Name: Sphere (3)
   m_TagString: Untagged
@@ -2976,6 +3043,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &94341645
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 94341642}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &94341646
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -4200,6 +4288,7 @@ GameObject:
   - component: {fileID: 147978359}
   - component: {fileID: 147978362}
   - component: {fileID: 147978360}
+  - component: {fileID: 147978361}
   m_Layer: 0
   m_Name: Sphere (10)
   m_TagString: Untagged
@@ -4265,6 +4354,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &147978361
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 147978358}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &147978362
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -4363,6 +4473,7 @@ GameObject:
   - component: {fileID: 155128236}
   - component: {fileID: 155128239}
   - component: {fileID: 155128237}
+  - component: {fileID: 155128238}
   m_Layer: 0
   m_Name: Sphere (7)
   m_TagString: Untagged
@@ -4428,6 +4539,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &155128238
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 155128235}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &155128239
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -6907,6 +7039,7 @@ GameObject:
   - component: {fileID: 246819852}
   - component: {fileID: 246819855}
   - component: {fileID: 246819853}
+  - component: {fileID: 246819854}
   m_Layer: 0
   m_Name: Sphere (3)
   m_TagString: Untagged
@@ -6972,6 +7105,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &246819854
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 246819851}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &246819855
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -7366,6 +7520,7 @@ GameObject:
   - component: {fileID: 264069628}
   - component: {fileID: 264069631}
   - component: {fileID: 264069629}
+  - component: {fileID: 264069630}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
@@ -7431,6 +7586,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &264069630
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 264069627}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &264069631
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -7992,6 +8168,7 @@ GameObject:
   - component: {fileID: 269937927}
   - component: {fileID: 269937930}
   - component: {fileID: 269937928}
+  - component: {fileID: 269937929}
   m_Layer: 0
   m_Name: Sphere (6)
   m_TagString: Untagged
@@ -8057,6 +8234,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &269937929
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 269937926}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &269937930
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -8340,6 +8538,7 @@ GameObject:
   - component: {fileID: 282871999}
   - component: {fileID: 282872002}
   - component: {fileID: 282872000}
+  - component: {fileID: 282872001}
   m_Layer: 0
   m_Name: Sphere (6)
   m_TagString: Untagged
@@ -8405,6 +8604,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &282872001
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 282871998}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &282872002
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -8503,6 +8723,7 @@ GameObject:
   - component: {fileID: 285428665}
   - component: {fileID: 285428668}
   - component: {fileID: 285428666}
+  - component: {fileID: 285428667}
   m_Layer: 0
   m_Name: Sphere (7)
   m_TagString: Untagged
@@ -8568,6 +8789,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &285428667
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 285428664}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &285428668
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -9085,6 +9327,7 @@ GameObject:
   - component: {fileID: 325121333}
   - component: {fileID: 325121336}
   - component: {fileID: 325121334}
+  - component: {fileID: 325121335}
   m_Layer: 0
   m_Name: Sphere (7)
   m_TagString: Untagged
@@ -9150,6 +9393,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &325121335
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 325121332}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &325121336
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -9248,6 +9512,7 @@ GameObject:
   - component: {fileID: 334644330}
   - component: {fileID: 334644333}
   - component: {fileID: 334644331}
+  - component: {fileID: 334644332}
   m_Layer: 0
   m_Name: Sphere (6)
   m_TagString: Untagged
@@ -9313,6 +9578,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &334644332
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 334644329}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &334644333
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -9529,6 +9815,7 @@ GameObject:
   - component: {fileID: 350397955}
   - component: {fileID: 350397958}
   - component: {fileID: 350397956}
+  - component: {fileID: 350397957}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
@@ -9594,6 +9881,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &350397957
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350397954}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &350397958
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -9613,6 +9921,7 @@ GameObject:
   - component: {fileID: 351382379}
   - component: {fileID: 351382382}
   - component: {fileID: 351382380}
+  - component: {fileID: 351382381}
   m_Layer: 0
   m_Name: Sphere (2)
   m_TagString: Untagged
@@ -9678,6 +9987,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &351382381
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 351382378}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &351382382
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -13149,6 +13479,7 @@ GameObject:
   - component: {fileID: 488125505}
   - component: {fileID: 488125508}
   - component: {fileID: 488125506}
+  - component: {fileID: 488125507}
   m_Layer: 0
   m_Name: Sphere (1)
   m_TagString: Untagged
@@ -13214,6 +13545,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &488125507
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 488125504}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &488125508
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -13233,6 +13585,7 @@ GameObject:
   - component: {fileID: 495016600}
   - component: {fileID: 495016603}
   - component: {fileID: 495016601}
+  - component: {fileID: 495016602}
   m_Layer: 0
   m_Name: Sphere (3)
   m_TagString: Untagged
@@ -13298,6 +13651,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &495016602
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 495016599}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &495016603
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -14374,6 +14748,7 @@ GameObject:
   - component: {fileID: 527993761}
   - component: {fileID: 527993764}
   - component: {fileID: 527993762}
+  - component: {fileID: 527993763}
   m_Layer: 0
   m_Name: Sphere (6)
   m_TagString: Untagged
@@ -14439,6 +14814,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &527993763
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 527993760}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &527993764
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -16266,6 +16662,7 @@ GameObject:
   - component: {fileID: 609239531}
   - component: {fileID: 609239534}
   - component: {fileID: 609239532}
+  - component: {fileID: 609239533}
   m_Layer: 0
   m_Name: Sphere (9)
   m_TagString: Untagged
@@ -16331,6 +16728,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &609239533
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 609239530}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &609239534
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -16580,6 +16998,7 @@ GameObject:
   - component: {fileID: 622515775}
   - component: {fileID: 622515778}
   - component: {fileID: 622515776}
+  - component: {fileID: 622515777}
   m_Layer: 0
   m_Name: Sphere (11)
   m_TagString: Untagged
@@ -16645,6 +17064,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &622515777
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 622515774}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &622515778
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -16822,6 +17262,7 @@ GameObject:
   - component: {fileID: 643500965}
   - component: {fileID: 643500968}
   - component: {fileID: 643500966}
+  - component: {fileID: 643500967}
   m_Layer: 0
   m_Name: Sphere (1)
   m_TagString: Untagged
@@ -16887,6 +17328,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &643500967
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 643500964}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &643500968
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -16906,6 +17368,7 @@ GameObject:
   - component: {fileID: 647684724}
   - component: {fileID: 647684727}
   - component: {fileID: 647684725}
+  - component: {fileID: 647684726}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
@@ -16971,6 +17434,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &647684726
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 647684723}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &647684727
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -17069,6 +17553,7 @@ GameObject:
   - component: {fileID: 651972003}
   - component: {fileID: 651972006}
   - component: {fileID: 651972004}
+  - component: {fileID: 651972005}
   m_Layer: 0
   m_Name: Sphere (9)
   m_TagString: Untagged
@@ -17134,6 +17619,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &651972005
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 651972002}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &651972006
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -17271,6 +17777,7 @@ GameObject:
   - component: {fileID: 659414528}
   - component: {fileID: 659414531}
   - component: {fileID: 659414529}
+  - component: {fileID: 659414530}
   m_Layer: 0
   m_Name: Sphere (5)
   m_TagString: Untagged
@@ -17336,6 +17843,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &659414530
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 659414527}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &659414531
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -20707,6 +21235,7 @@ GameObject:
   - component: {fileID: 754268799}
   - component: {fileID: 754268802}
   - component: {fileID: 754268800}
+  - component: {fileID: 754268801}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
@@ -20772,6 +21301,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &754268801
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 754268798}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &754268802
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -20791,6 +21341,7 @@ GameObject:
   - component: {fileID: 758399315}
   - component: {fileID: 758399318}
   - component: {fileID: 758399316}
+  - component: {fileID: 758399317}
   m_Layer: 0
   m_Name: Sphere (3)
   m_TagString: Untagged
@@ -20856,6 +21407,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &758399317
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 758399314}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &758399318
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -21776,6 +22348,7 @@ GameObject:
   - component: {fileID: 794844290}
   - component: {fileID: 794844293}
   - component: {fileID: 794844291}
+  - component: {fileID: 794844292}
   m_Layer: 0
   m_Name: Sphere (4)
   m_TagString: Untagged
@@ -21841,6 +22414,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &794844292
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 794844289}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &794844293
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -22768,6 +23362,7 @@ GameObject:
   - component: {fileID: 828935713}
   - component: {fileID: 828935716}
   - component: {fileID: 828935714}
+  - component: {fileID: 828935715}
   m_Layer: 0
   m_Name: Sphere (4)
   m_TagString: Untagged
@@ -22833,6 +23428,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &828935715
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 828935712}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &828935716
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -23025,6 +23641,7 @@ GameObject:
   - component: {fileID: 860753980}
   - component: {fileID: 860753983}
   - component: {fileID: 860753981}
+  - component: {fileID: 860753982}
   m_Layer: 0
   m_Name: Sphere (5)
   m_TagString: Untagged
@@ -23090,6 +23707,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &860753982
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 860753979}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &860753983
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -23880,6 +24518,7 @@ GameObject:
   - component: {fileID: 867273529}
   - component: {fileID: 867273532}
   - component: {fileID: 867273530}
+  - component: {fileID: 867273531}
   m_Layer: 0
   m_Name: Sphere (8)
   m_TagString: Untagged
@@ -23945,6 +24584,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &867273531
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 867273528}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &867273532
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -24043,6 +24703,7 @@ GameObject:
   - component: {fileID: 870717094}
   - component: {fileID: 870717097}
   - component: {fileID: 870717095}
+  - component: {fileID: 870717096}
   m_Layer: 0
   m_Name: Sphere (2)
   m_TagString: Untagged
@@ -24108,6 +24769,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &870717096
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 870717093}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &870717097
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -24293,6 +24975,7 @@ GameObject:
   - component: {fileID: 872506952}
   - component: {fileID: 872506955}
   - component: {fileID: 872506953}
+  - component: {fileID: 872506954}
   m_Layer: 0
   m_Name: Sphere (3)
   m_TagString: Untagged
@@ -24358,6 +25041,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &872506954
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 872506951}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &872506955
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -24377,6 +25081,7 @@ GameObject:
   - component: {fileID: 873724809}
   - component: {fileID: 873724812}
   - component: {fileID: 873724810}
+  - component: {fileID: 873724811}
   m_Layer: 0
   m_Name: Sphere (9)
   m_TagString: Untagged
@@ -24442,6 +25147,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &873724811
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 873724808}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &873724812
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -24737,6 +25463,7 @@ GameObject:
   - component: {fileID: 879088688}
   - component: {fileID: 879088691}
   - component: {fileID: 879088689}
+  - component: {fileID: 879088690}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
@@ -24802,6 +25529,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &879088690
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 879088687}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &879088691
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -26291,6 +27039,7 @@ GameObject:
   - component: {fileID: 926937994}
   - component: {fileID: 926937997}
   - component: {fileID: 926937995}
+  - component: {fileID: 926937996}
   m_Layer: 0
   m_Name: Sphere (10)
   m_TagString: Untagged
@@ -26356,6 +27105,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &926937996
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 926937993}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &926937997
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -26576,6 +27346,7 @@ GameObject:
   - component: {fileID: 941005715}
   - component: {fileID: 941005718}
   - component: {fileID: 941005716}
+  - component: {fileID: 941005717}
   m_Layer: 0
   m_Name: Sphere (5)
   m_TagString: Untagged
@@ -26641,6 +27412,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &941005717
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 941005714}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &941005718
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -27342,6 +28134,7 @@ GameObject:
   - component: {fileID: 959614756}
   - component: {fileID: 959614759}
   - component: {fileID: 959614757}
+  - component: {fileID: 959614758}
   m_Layer: 0
   m_Name: Sphere (11)
   m_TagString: Untagged
@@ -27407,6 +28200,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &959614758
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 959614755}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &959614759
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -27610,6 +28424,7 @@ GameObject:
   - component: {fileID: 964021878}
   - component: {fileID: 964021881}
   - component: {fileID: 964021879}
+  - component: {fileID: 964021880}
   m_Layer: 0
   m_Name: Sphere (6)
   m_TagString: Untagged
@@ -27675,6 +28490,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &964021880
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 964021877}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &964021881
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -28186,6 +29022,7 @@ GameObject:
   - component: {fileID: 980735953}
   - component: {fileID: 980735956}
   - component: {fileID: 980735954}
+  - component: {fileID: 980735955}
   m_Layer: 0
   m_Name: Sphere (3)
   m_TagString: Untagged
@@ -28251,6 +29088,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &980735955
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 980735952}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &980735956
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -29969,6 +30827,7 @@ GameObject:
   - component: {fileID: 1031537202}
   - component: {fileID: 1031537205}
   - component: {fileID: 1031537203}
+  - component: {fileID: 1031537204}
   m_Layer: 0
   m_Name: Sphere (7)
   m_TagString: Untagged
@@ -30034,6 +30893,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1031537204
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1031537201}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1031537205
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -30785,6 +31665,7 @@ GameObject:
   - component: {fileID: 1059471439}
   - component: {fileID: 1059471442}
   - component: {fileID: 1059471440}
+  - component: {fileID: 1059471441}
   m_Layer: 0
   m_Name: Sphere (11)
   m_TagString: Untagged
@@ -30850,6 +31731,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1059471441
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1059471438}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1059471442
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -31184,6 +32086,7 @@ GameObject:
   - component: {fileID: 1103907225}
   - component: {fileID: 1103907228}
   - component: {fileID: 1103907226}
+  - component: {fileID: 1103907227}
   m_Layer: 0
   m_Name: Sphere (2)
   m_TagString: Untagged
@@ -31249,6 +32152,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1103907227
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1103907224}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1103907228
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -33017,6 +33941,7 @@ GameObject:
   - component: {fileID: 1147647510}
   - component: {fileID: 1147647513}
   - component: {fileID: 1147647511}
+  - component: {fileID: 1147647512}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
@@ -33082,6 +34007,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1147647512
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1147647509}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1147647513
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -33358,6 +34304,7 @@ GameObject:
   - component: {fileID: 1150359899}
   - component: {fileID: 1150359902}
   - component: {fileID: 1150359900}
+  - component: {fileID: 1150359901}
   m_Layer: 0
   m_Name: Sphere (8)
   m_TagString: Untagged
@@ -33423,6 +34370,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1150359901
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1150359898}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1150359902
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -33639,6 +34607,7 @@ GameObject:
   - component: {fileID: 1180099848}
   - component: {fileID: 1180099851}
   - component: {fileID: 1180099849}
+  - component: {fileID: 1180099850}
   m_Layer: 0
   m_Name: Sphere (8)
   m_TagString: Untagged
@@ -33704,6 +34673,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1180099850
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1180099847}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1180099851
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -33841,6 +34831,7 @@ GameObject:
   - component: {fileID: 1193653489}
   - component: {fileID: 1193653492}
   - component: {fileID: 1193653490}
+  - component: {fileID: 1193653491}
   m_Layer: 0
   m_Name: Sphere (8)
   m_TagString: Untagged
@@ -33906,6 +34897,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1193653491
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1193653488}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1193653492
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -34043,6 +35055,7 @@ GameObject:
   - component: {fileID: 1196592207}
   - component: {fileID: 1196592210}
   - component: {fileID: 1196592208}
+  - component: {fileID: 1196592209}
   m_Layer: 0
   m_Name: Sphere (4)
   m_TagString: Untagged
@@ -34108,6 +35121,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1196592209
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1196592206}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1196592210
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -34245,6 +35279,7 @@ GameObject:
   - component: {fileID: 1202429477}
   - component: {fileID: 1202429480}
   - component: {fileID: 1202429478}
+  - component: {fileID: 1202429479}
   m_Layer: 0
   m_Name: Sphere (7)
   m_TagString: Untagged
@@ -34310,6 +35345,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1202429479
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1202429476}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1202429480
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -35648,6 +36704,7 @@ GameObject:
   - component: {fileID: 1256531256}
   - component: {fileID: 1256531259}
   - component: {fileID: 1256531257}
+  - component: {fileID: 1256531258}
   m_Layer: 0
   m_Name: Sphere (3)
   m_TagString: Untagged
@@ -35713,6 +36770,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1256531258
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1256531255}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1256531259
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -35856,6 +36934,7 @@ GameObject:
   - component: {fileID: 1286863017}
   - component: {fileID: 1286863020}
   - component: {fileID: 1286863018}
+  - component: {fileID: 1286863019}
   m_Layer: 0
   m_Name: Sphere (8)
   m_TagString: Untagged
@@ -35921,6 +37000,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1286863019
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1286863016}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1286863020
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -35940,6 +37040,7 @@ GameObject:
   - component: {fileID: 1289019517}
   - component: {fileID: 1289019520}
   - component: {fileID: 1289019518}
+  - component: {fileID: 1289019519}
   m_Layer: 0
   m_Name: Sphere (2)
   m_TagString: Untagged
@@ -36005,6 +37106,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1289019519
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1289019516}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1289019520
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -37059,6 +38181,7 @@ GameObject:
   - component: {fileID: 1320957737}
   - component: {fileID: 1320957740}
   - component: {fileID: 1320957738}
+  - component: {fileID: 1320957739}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
@@ -37124,6 +38247,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1320957739
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1320957736}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1320957740
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -37880,6 +39024,7 @@ GameObject:
   - component: {fileID: 1327880799}
   - component: {fileID: 1327880802}
   - component: {fileID: 1327880800}
+  - component: {fileID: 1327880801}
   m_Layer: 0
   m_Name: Sphere (9)
   m_TagString: Untagged
@@ -37945,6 +39090,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1327880801
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1327880798}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1327880802
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -38536,6 +39702,7 @@ GameObject:
   - component: {fileID: 1356550636}
   - component: {fileID: 1356550639}
   - component: {fileID: 1356550637}
+  - component: {fileID: 1356550638}
   m_Layer: 0
   m_Name: Sphere (5)
   m_TagString: Untagged
@@ -38601,6 +39768,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1356550638
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1356550635}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1356550639
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -39213,6 +40401,7 @@ GameObject:
   - component: {fileID: 1367187385}
   - component: {fileID: 1367187388}
   - component: {fileID: 1367187386}
+  - component: {fileID: 1367187387}
   m_Layer: 0
   m_Name: Sphere (10)
   m_TagString: Untagged
@@ -39278,6 +40467,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1367187387
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1367187384}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1367187388
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -40045,6 +41255,7 @@ GameObject:
   - component: {fileID: 1407411682}
   - component: {fileID: 1407411685}
   - component: {fileID: 1407411683}
+  - component: {fileID: 1407411684}
   m_Layer: 0
   m_Name: Sphere (10)
   m_TagString: Untagged
@@ -40110,6 +41321,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1407411684
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1407411681}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1407411685
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -40431,40 +41663,7 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: 0.754
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 7861380608669490811, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 3942227805741030974, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 5319600083047336024, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 7793862097155485846, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 2022289248618618586, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 4365706627702553447, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 3010537058003127725, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 5220299821155630219, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 2863816453962915586, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 6638773016481763968, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 7585962579358716695, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 7566291895108218026, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 6059093999455568196, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 2078965904905296039, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 4735754733584350393, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 7313790433104035020, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 5175551241258439433, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 7298624525813765418, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 3966296402268202739, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 5101332301845220312, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 8359835081000112205, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 1003032814125080559, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 2837678978771663052, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 8988985647010649744, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 6062725887789690890, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 8710049026485660187, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 5213127269732389387, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 1317371542683843484, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 38207717456230404, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 5580049162921591570, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 5872642707752935515, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 4957924476464536856, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
-    - {fileID: 6145648922215953096, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
+    m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 317614458655672824, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
     - {fileID: 4638575693133796420, guid: a0ea40bd139aedc43b0e8374d6139437, type: 3}
@@ -41511,6 +42710,7 @@ GameObject:
   - component: {fileID: 1444288131}
   - component: {fileID: 1444288134}
   - component: {fileID: 1444288132}
+  - component: {fileID: 1444288133}
   m_Layer: 0
   m_Name: Sphere (10)
   m_TagString: Untagged
@@ -41576,6 +42776,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1444288133
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1444288130}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1444288134
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -41595,6 +42816,7 @@ GameObject:
   - component: {fileID: 1455272570}
   - component: {fileID: 1455272573}
   - component: {fileID: 1455272571}
+  - component: {fileID: 1455272572}
   m_Layer: 0
   m_Name: Sphere (8)
   m_TagString: Untagged
@@ -41660,6 +42882,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1455272572
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1455272569}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1455272573
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -41797,6 +43040,7 @@ GameObject:
   - component: {fileID: 1465518586}
   - component: {fileID: 1465518589}
   - component: {fileID: 1465518587}
+  - component: {fileID: 1465518588}
   m_Layer: 0
   m_Name: Sphere (3)
   m_TagString: Untagged
@@ -41862,6 +43106,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1465518588
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1465518585}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1465518589
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -41881,6 +43146,7 @@ GameObject:
   - component: {fileID: 1473150183}
   - component: {fileID: 1473150186}
   - component: {fileID: 1473150184}
+  - component: {fileID: 1473150185}
   m_Layer: 0
   m_Name: Sphere (6)
   m_TagString: Untagged
@@ -41946,6 +43212,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1473150185
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1473150182}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1473150186
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -42399,6 +43686,7 @@ GameObject:
   - component: {fileID: 1507351104}
   - component: {fileID: 1507351107}
   - component: {fileID: 1507351105}
+  - component: {fileID: 1507351106}
   m_Layer: 0
   m_Name: Sphere (5)
   m_TagString: Untagged
@@ -42464,6 +43752,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1507351106
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1507351103}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1507351107
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -43247,6 +44556,7 @@ GameObject:
   - component: {fileID: 1551544134}
   - component: {fileID: 1551544137}
   - component: {fileID: 1551544135}
+  - component: {fileID: 1551544136}
   m_Layer: 0
   m_Name: Sphere (7)
   m_TagString: Untagged
@@ -43312,6 +44622,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1551544136
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1551544133}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1551544137
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -43331,6 +44662,7 @@ GameObject:
   - component: {fileID: 1556277400}
   - component: {fileID: 1556277403}
   - component: {fileID: 1556277401}
+  - component: {fileID: 1556277402}
   m_Layer: 0
   m_Name: Sphere (5)
   m_TagString: Untagged
@@ -43396,6 +44728,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1556277402
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1556277399}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1556277403
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -43415,6 +44768,7 @@ GameObject:
   - component: {fileID: 1563016861}
   - component: {fileID: 1563016864}
   - component: {fileID: 1563016862}
+  - component: {fileID: 1563016863}
   m_Layer: 0
   m_Name: Sphere (3)
   m_TagString: Untagged
@@ -43480,6 +44834,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1563016863
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1563016860}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1563016864
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -43853,6 +45228,7 @@ GameObject:
   - component: {fileID: 1590931615}
   - component: {fileID: 1590931618}
   - component: {fileID: 1590931616}
+  - component: {fileID: 1590931617}
   m_Layer: 0
   m_Name: Sphere (4)
   m_TagString: Untagged
@@ -43918,6 +45294,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1590931617
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1590931614}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1590931618
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -45834,6 +47231,7 @@ GameObject:
   - component: {fileID: 1642609580}
   - component: {fileID: 1642609583}
   - component: {fileID: 1642609581}
+  - component: {fileID: 1642609582}
   m_Layer: 0
   m_Name: Sphere (7)
   m_TagString: Untagged
@@ -45899,6 +47297,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1642609582
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1642609579}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1642609583
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -45997,6 +47416,7 @@ GameObject:
   - component: {fileID: 1645283957}
   - component: {fileID: 1645283960}
   - component: {fileID: 1645283958}
+  - component: {fileID: 1645283959}
   m_Layer: 0
   m_Name: Sphere (1)
   m_TagString: Untagged
@@ -46062,6 +47482,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1645283959
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1645283956}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1645283960
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -46569,6 +48010,7 @@ GameObject:
   - component: {fileID: 1653373393}
   - component: {fileID: 1653373396}
   - component: {fileID: 1653373394}
+  - component: {fileID: 1653373395}
   m_Layer: 0
   m_Name: Sphere (10)
   m_TagString: Untagged
@@ -46634,6 +48076,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1653373395
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1653373392}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1653373396
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -46653,6 +48116,7 @@ GameObject:
   - component: {fileID: 1657791787}
   - component: {fileID: 1657791790}
   - component: {fileID: 1657791788}
+  - component: {fileID: 1657791789}
   m_Layer: 0
   m_Name: Sphere (8)
   m_TagString: Untagged
@@ -46718,6 +48182,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1657791789
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1657791786}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1657791790
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -47349,6 +48834,7 @@ GameObject:
   - component: {fileID: 1711065127}
   - component: {fileID: 1711065130}
   - component: {fileID: 1711065128}
+  - component: {fileID: 1711065129}
   m_Layer: 0
   m_Name: Sphere (10)
   m_TagString: Untagged
@@ -47414,6 +48900,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1711065129
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1711065126}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1711065130
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -47708,6 +49215,7 @@ GameObject:
   - component: {fileID: 1736640602}
   - component: {fileID: 1736640605}
   - component: {fileID: 1736640603}
+  - component: {fileID: 1736640604}
   m_Layer: 0
   m_Name: Sphere (3)
   m_TagString: Untagged
@@ -47773,6 +49281,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1736640604
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1736640601}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1736640605
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -48321,6 +49850,7 @@ GameObject:
   - component: {fileID: 1759415616}
   - component: {fileID: 1759415619}
   - component: {fileID: 1759415617}
+  - component: {fileID: 1759415618}
   m_Layer: 0
   m_Name: Sphere (5)
   m_TagString: Untagged
@@ -48386,6 +49916,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1759415618
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1759415615}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1759415619
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -48988,6 +50539,7 @@ GameObject:
   - component: {fileID: 1783470663}
   - component: {fileID: 1783470666}
   - component: {fileID: 1783470664}
+  - component: {fileID: 1783470665}
   m_Layer: 0
   m_Name: Sphere (9)
   m_TagString: Untagged
@@ -49053,6 +50605,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1783470665
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1783470662}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1783470666
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -49311,6 +50884,7 @@ GameObject:
   - component: {fileID: 1809200769}
   - component: {fileID: 1809200772}
   - component: {fileID: 1809200770}
+  - component: {fileID: 1809200771}
   m_Layer: 0
   m_Name: Sphere (1)
   m_TagString: Untagged
@@ -49376,6 +50950,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1809200771
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1809200768}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1809200772
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -49652,6 +51247,7 @@ GameObject:
   - component: {fileID: 1820869996}
   - component: {fileID: 1820869999}
   - component: {fileID: 1820869997}
+  - component: {fileID: 1820869998}
   m_Layer: 0
   m_Name: Sphere (1)
   m_TagString: Untagged
@@ -49717,6 +51313,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1820869998
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1820869995}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1820869999
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -49933,6 +51550,7 @@ GameObject:
   - component: {fileID: 1836451257}
   - component: {fileID: 1836451260}
   - component: {fileID: 1836451258}
+  - component: {fileID: 1836451259}
   m_Layer: 0
   m_Name: Sphere (4)
   m_TagString: Untagged
@@ -49998,6 +51616,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1836451259
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1836451256}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1836451260
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -50556,6 +52195,7 @@ GameObject:
   - component: {fileID: 1865304555}
   - component: {fileID: 1865304558}
   - component: {fileID: 1865304556}
+  - component: {fileID: 1865304557}
   m_Layer: 0
   m_Name: Sphere (6)
   m_TagString: Untagged
@@ -50621,6 +52261,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1865304557
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1865304554}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1865304558
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -52018,6 +53679,7 @@ GameObject:
   - component: {fileID: 1936009430}
   - component: {fileID: 1936009433}
   - component: {fileID: 1936009431}
+  - component: {fileID: 1936009432}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
@@ -52083,6 +53745,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1936009432
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1936009429}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1936009433
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -52220,6 +53903,7 @@ GameObject:
   - component: {fileID: 1947591782}
   - component: {fileID: 1947591785}
   - component: {fileID: 1947591783}
+  - component: {fileID: 1947591784}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
@@ -52285,6 +53969,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1947591784
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1947591781}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1947591785
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -52304,6 +54009,7 @@ GameObject:
   - component: {fileID: 1948203747}
   - component: {fileID: 1948203750}
   - component: {fileID: 1948203748}
+  - component: {fileID: 1948203749}
   m_Layer: 0
   m_Name: Sphere (5)
   m_TagString: Untagged
@@ -52369,6 +54075,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &1948203749
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1948203746}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1948203750
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -53926,6 +55653,7 @@ GameObject:
   - component: {fileID: 2009892232}
   - component: {fileID: 2009892235}
   - component: {fileID: 2009892233}
+  - component: {fileID: 2009892234}
   m_Layer: 0
   m_Name: Sphere (2)
   m_TagString: Untagged
@@ -53991,6 +55719,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &2009892234
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2009892231}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &2009892235
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -54286,6 +56035,7 @@ GameObject:
   - component: {fileID: 2022683345}
   - component: {fileID: 2022683348}
   - component: {fileID: 2022683346}
+  - component: {fileID: 2022683347}
   m_Layer: 0
   m_Name: Sphere (4)
   m_TagString: Untagged
@@ -54351,6 +56101,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &2022683347
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2022683344}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &2022683348
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -55002,6 +56773,7 @@ GameObject:
   - component: {fileID: 2030701996}
   - component: {fileID: 2030701999}
   - component: {fileID: 2030701997}
+  - component: {fileID: 2030701998}
   m_Layer: 0
   m_Name: Sphere (1)
   m_TagString: Untagged
@@ -55067,6 +56839,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &2030701998
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030701995}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &2030701999
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -55432,6 +57225,7 @@ GameObject:
   - component: {fileID: 2059674362}
   - component: {fileID: 2059674365}
   - component: {fileID: 2059674363}
+  - component: {fileID: 2059674364}
   m_Layer: 0
   m_Name: Sphere (10)
   m_TagString: Untagged
@@ -55497,6 +57291,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &2059674364
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2059674361}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &2059674365
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -55792,6 +57607,7 @@ GameObject:
   - component: {fileID: 2070206706}
   - component: {fileID: 2070206709}
   - component: {fileID: 2070206707}
+  - component: {fileID: 2070206708}
   m_Layer: 0
   m_Name: Sphere (6)
   m_TagString: Untagged
@@ -55857,6 +57673,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &2070206708
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2070206705}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &2070206709
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -56212,6 +58049,7 @@ GameObject:
   - component: {fileID: 2087210595}
   - component: {fileID: 2087210598}
   - component: {fileID: 2087210596}
+  - component: {fileID: 2087210597}
   m_Layer: 0
   m_Name: Sphere (6)
   m_TagString: Untagged
@@ -56277,6 +58115,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &2087210597
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2087210594}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &2087210598
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -56493,6 +58352,7 @@ GameObject:
   - component: {fileID: 2088310320}
   - component: {fileID: 2088310323}
   - component: {fileID: 2088310321}
+  - component: {fileID: 2088310322}
   m_Layer: 0
   m_Name: Sphere (5)
   m_TagString: Untagged
@@ -56558,6 +58418,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &2088310322
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2088310319}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &2088310323
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -58223,6 +60104,7 @@ GameObject:
   - component: {fileID: 2145348747}
   - component: {fileID: 2145348750}
   - component: {fileID: 2145348748}
+  - component: {fileID: 2145348749}
   m_Layer: 0
   m_Name: Sphere (4)
   m_TagString: Untagged
@@ -58288,6 +60170,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &2145348749
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2145348746}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &2145348750
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -58307,6 +60210,7 @@ GameObject:
   - component: {fileID: 2146160185}
   - component: {fileID: 2146160188}
   - component: {fileID: 2146160186}
+  - component: {fileID: 2146160187}
   m_Layer: 0
   m_Name: Sphere (8)
   m_TagString: Untagged
@@ -58372,6 +60276,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &2146160187
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2146160184}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &2146160188
 MeshFilter:
   m_ObjectHideFlags: 0
